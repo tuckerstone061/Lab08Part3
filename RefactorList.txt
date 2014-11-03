@@ -1,0 +1,5 @@
+A few methods should be renamed as their purpose is unclear(such as look())
+Duplicated methods with different parameters.
+Replace conditional with polymorphism -- Animal with Wolf & Bunny
+In a few class there are too many boolean control flags.
+Unnecessary override of existing method random().
